@@ -14,4 +14,4 @@ This is a list.
 3. Three
 4. Four
 5. Five
-6. six
+6. Six
