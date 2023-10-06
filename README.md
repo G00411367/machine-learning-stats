@@ -15,3 +15,4 @@ This is a list.
 4. Four
 5. Five
 6. Six
+7. Seven
