@@ -1,18 +1,7 @@
-# Machine-Learning-Stats
+# Machine Learning and Statistics
 
-Machine learning and statistics project by Ioan Domsa
+Ioan Domsa
 
-This is a list.
+## How to use this repository
 
-
-
-
-***
-
-1. One
-2. Two
-3. Three
-4. Four
-5. Five
-6. Six
-7. Seven
+1. Install Anaconda
